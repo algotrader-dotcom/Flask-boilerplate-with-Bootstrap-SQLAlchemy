@@ -60,3 +60,6 @@ cookiecutter
 cookiecutter output theme
 
 [logo]: https://pythonspot-9329.kxcdn.com/wp-content/uploads/2015/07/cookiecutter.png.webp
+
+[logo]: https://pythonspot-9329.kxcdn.com/wp-content/uploads/2015/07/cookiecutter.png.webp "Logo Title Text 2"
+
