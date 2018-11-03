@@ -58,3 +58,5 @@ You can then open http://127.0.0.1:5000
 
 cookiecutter
 cookiecutter output theme
+
+[]: https://pythonspot-9329.kxcdn.com/wp-content/uploads/2015/07/cookiecutter.png.webp
